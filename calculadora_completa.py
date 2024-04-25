@@ -111,6 +111,7 @@ def porcentagem():
         
     
 
+# Programa principal
 cabeçalho('Calculadora PY')
 while True:
     print('Qual operação você quer fazer?\n(escreva o que estiver entre colchetes)\n(0 para parar)')
